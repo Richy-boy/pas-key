@@ -1,5 +1,5 @@
 # pas-key
-A simple Linux password generator tool with readable output - by EgoClavis Labs
+A simple Linux password generator tool with readable output -
 **by EgoClavis Labs** | Version 1.0 (2025)
 
 ## Features
