@@ -9,7 +9,7 @@ A simple Linux password generator tool with readable output -
 
 ## Installation
 ```bash
-git clone https://github.com/EgoClavisLabs/pas-key.git
+git clone  https://github.com/Richy-boy/pas-key.git
 cd pas-key
 chmod +x pas-key.sh
 ./pas-key.sh
