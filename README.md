@@ -11,6 +11,7 @@ A simple Linux password generator tool with readable output -
 ```bash
 git clone  https://github.com/Richy-boy/pas-key.git
 cd pas-key
-chmod +x pas-key.sh
-./pas-key.sh
+python3 pas-k.py
+ 
+
 
