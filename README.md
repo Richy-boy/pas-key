@@ -5,7 +5,7 @@ A simple Linux password generator tool with readable output -
 ## Features
 - Readable passwords (easy to type and remember)
 - Simple menu interface
-- Lightweight – pure Bash
+- Lightweight –  python version 
 
 ## Installation
 ```bash
