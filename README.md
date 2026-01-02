@@ -2,8 +2,8 @@
 A simple Linux password generator tool with readable output -
 **by EgoClavis Labs** | Version 1.0 (2025)
 
-## Bash Version (** version 1.4** ) 
-Super lightweight –  perfect for servers/minimal systems.
+## Bash Version  **version 1.4**
+Super lightweight 
 
 **NOTE:** _bash version is different from python version_
 
