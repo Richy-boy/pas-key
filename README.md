@@ -13,12 +13,14 @@ Super lightweight
 - Lightweight –  **python version** 
 
 ## Installation
+_python version_ v1.0
 ```bash
 git clone  https://github.com/Richy-boy/pas-key.git
 cd pas-key
 python3 pas-k.py
 
-```  
+```
+_bash version_ v2.0
  ## Screenshots
  showing the tools
 <img width="1259" height="678" alt="Screenshot From 2025-12-21 13-51-16" src="https://github.com/user-attachments/assets/66373092-5da7-4d6d-a180-d7eefd34108c" />
