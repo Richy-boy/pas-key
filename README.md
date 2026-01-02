@@ -33,8 +33,10 @@ bash pas-key.sh
 
 <img width="1357" height="654" alt="Screenshot From 2025-12-21 13-52-16" src="https://github.com/user-attachments/assets/e3776252-b043-46e0-a710-2908b65092eb" />
 
+# Download links
 
-
+ **Python Edition (v1.0)**: https://github.com/Richy-boy/pas-key/releases/download/v1.0/pas-key.py
+ **Bash Edition (v2.0)**:   https://github.com/Richy-boy/pas-key/releases/download/v2.0/pas-key.sh 🚀
  
 
 
