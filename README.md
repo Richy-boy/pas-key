@@ -1,8 +1,8 @@
 # pas-key
 A simple Linux password generator tool with readable output -
-**by EgoClavis Labs** | Version 1.0 (2025)
+**by EgoClavis Labs**
 
-## Bash Version  **version 1.4**
+## Bash Version  
 Super lightweight 
 
 **NOTE:** _bash version is different from python version_
@@ -17,10 +17,16 @@ _python version_ v1.0
 ```bash
 git clone  https://github.com/Richy-boy/pas-key.git
 cd pas-key
-python3 pas-k.py
+python3 pas-key.py
 
 ```
 _bash version_ v2.0
+```bash
+git clone  https://github.com/Richy-boy/pas-key.git
+cd pas-key
+bash pas-key.sh
+```
+
  ## Screenshots
  showing the tools
 <img width="1259" height="678" alt="Screenshot From 2025-12-21 13-51-16" src="https://github.com/user-attachments/assets/66373092-5da7-4d6d-a180-d7eefd34108c" />
