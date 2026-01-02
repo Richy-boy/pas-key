@@ -35,8 +35,9 @@ bash pas-key.sh
 
 # Download links
 
- **Python Edition (v1.0)**: https://github.com/Richy-boy/pas-key/releases/download/v1.0/pas-key.py
- **Bash Edition (v2.0)**:   https://github.com/Richy-boy/pas-key/releases/download/v2.0/pas-key.sh 🚀
+ **Python Edition (v1.0)**:  https://github.com/Richy-boy/pas-key/releases/download/v1.0/pas-key.py
+ 
+ **Bash Edition (v2.0)**:    https://github.com/Richy-boy/pas-key/releases/download/v2.0/pas-key.sh 🚀
  
 
 
