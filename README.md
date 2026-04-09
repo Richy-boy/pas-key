@@ -39,8 +39,9 @@ bash pas-key.sh
  
  **Bash Edition (v2.0)**:    https://github.com/Richy-boy/pas-key/releases/download/v2.0/pas-key.sh 🚀
  
-**Share** 
-     social media              # kiswahili repo zote mbili kwenye:
+**Share social media** 
+                               ## kiswahili repo zote mbili kwenye:
+                               
      <a href="#"> X/Twitter </a>
      <a href="#"> Reddit (r/commandline, r/Python, r/bash)</a>
      <a href="#"> facebook</a>
