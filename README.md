@@ -42,9 +42,14 @@ bash pas-key.sh
 **Share social media** 
                                ## kiswahili repo zote mbili kwenye:
                                
-  X/Twitter.com 
-  Reddit.com (r/commandline, r/Python, r/bash)
-  facebook.com
+  (x)twitter :
+              https://x.com/
+              
+  Reddit : (r/commandline, r/Python, r/bash)
+          https://www.reddit.com/
+          
+  facebook :
+            https://www.facebook.com/
     
 
 
