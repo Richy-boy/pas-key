@@ -37,14 +37,14 @@ bash pas-key.sh
 
  **Python Edition (v1.0)**:  https://github.com/Richy-boy/pas-key/releases/download/v1.0/pas-key.py
  
- **Bash Edition (v2.0)**:    https://github.com/Richy-boy/pas-key/releases/download/v2.0/pas-key.sh 🚀
+ **Bash Edition (v2.0)**:    https://github.com/Richy-boy/pas-key/releases/download/v2.0/pas-key.sh 
  
 **Share social media** 
                                ## kiswahili repo zote mbili kwenye:
                                
-  X/Twitter 
-  Reddit (r/commandline, r/Python, r/bash)
-  facebook
+  X/Twitter.com 
+  Reddit.com (r/commandline, r/Python, r/bash)
+  facebook.com
     
 
 
